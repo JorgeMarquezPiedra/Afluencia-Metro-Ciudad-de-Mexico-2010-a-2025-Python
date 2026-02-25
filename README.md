@@ -1,8 +1,11 @@
 # Afluencia-Metro-Ciudad-de-Mexico-2010-a-2025-Python
 
 **Lenguaje: Python 3.x**
+
 **Librerías: Pandas, Matplotlib, Seaborn, NumPy**
+
 **Entorno: Google Colab / Jupyter Notebook**
+
 
 ## Este proyecto realiza un análisis exploratorio de datos (EDA) sobre la afluencia de pasajeros en el Sistema de Transporte Colectivo (STC) Metro de la Ciudad de México. El objetivo es identificar patrones de movilidad, impacto de eventos históricos y tendencias estacionales a lo largo de 15 años.
 
