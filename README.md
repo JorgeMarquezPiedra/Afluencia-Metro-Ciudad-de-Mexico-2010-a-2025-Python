@@ -9,7 +9,7 @@
 
 ## Este proyecto realiza un análisis exploratorio de datos (EDA) sobre la afluencia de pasajeros en el Sistema de Transporte Colectivo (STC) Metro de la Ciudad de México. El objetivo es identificar patrones de movilidad, impacto de eventos históricos y tendencias estacionales a lo largo de 15 años.
 
-**Líneas con mayor afluencia**
+**Afluencia promedio por línea**
 <img width="1190" height="797" alt="image" src="https://github.com/user-attachments/assets/87a81bc0-1c3f-404d-b77e-387ece678cd0" />
 
 **Afluencia total por año**
