@@ -11,8 +11,6 @@
 
 **![Afluencia promedio por año y mes (2010-2015)](img/afluencia_heatmap_anio_mes_personalizado.png)**
 
-**![Afluencia promedio por año y mes (2010-2015)](img/afluencia_heatmap_anio_mes.png)**
-
 **![Afluencia promedio por línea (2010-2015)](img/afluencia_promedio_por_linea.png)**
 
 **![Variabilidad de afluencia por línea (2010-2015)](img/boxplot_por_linea.png)**
